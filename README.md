@@ -26,7 +26,6 @@
 | **Tujuan** | Tugas UAS Mata Kuliah Pemrograman Web |
 | **Kelas / Prodi** | Kelas 5C / Informatika |
 | **Fakultas / Kampus** | Fakultas Teknologi Informasi — Universitas Sebelas April (UNSAP) |
-| **URL Website** | [kreatif-in.my.id](https://www.kreatif-in.my.id/) |
 
 ## Tim Pengembang (Team Roles)
 
